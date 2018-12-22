@@ -1,5 +1,5 @@
 
-    background: #fe9900 url("./img/background.jpeg");
+
 
 .row-space-top{
     margin-top: 65px;
@@ -7,9 +7,12 @@
 .row-space{
     margin-top:35px
 }
-
 body{
+    background: #FF9900 
+}
+.chegando{
     background: #FF9900 url("./img/fundo-carrinho.png");
+    background-repeat: no-repeat;
     background-size:100%;
     bottom: 0;
     color: black;
@@ -21,3 +24,9 @@ body{
     text-align: center;
     top: 0;
 }
+
+@media (max-width: 575.98px) { 
+    .chegando{
+    top: 20%;
+    }
+ }
