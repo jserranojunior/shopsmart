@@ -7,9 +7,9 @@
 .row-space{
     margin-top:35px
 }
-body{
+/* body{
     background: #FF9900 
-}
+} */
 .chegando{
     background: #FF9900 url("./img/fundo-carrinho.png");
     background-repeat: no-repeat;
